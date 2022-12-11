@@ -1,2 +1,2 @@
-# StopWatch
-I made stopwatch using HTML , CSS and JavaScript.
+# MEAL APP
+I made Meal App using HTML , CSS and JavaScript.
